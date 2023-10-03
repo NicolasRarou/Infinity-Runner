@@ -1,10 +1,7 @@
 # Infinity Runner
-
-# Visão Geral
-
 Este repositório contém o código-fonte e os ativos para o jogo Infinity Runner, desenvolvido na Unity usando a linguagem de programação C#. Você encontrará os principais componentes do projeto na pasta "Assets".
 
-# COMO INICIAR 
+# Como iniciar
 Se você deseja experimentar ou contribuir para o projeto, siga estas etapas:
 
     Certifique-se de ter a Unity instalada. Você pode baixá-la em Unity Download.
